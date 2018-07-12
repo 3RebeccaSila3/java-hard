@@ -11,7 +11,7 @@ public class ComparingNumbers {
         System.out.print("Second: ");
         second = keyboard.nextDouble();
 
-        if (first < second) 
+        if (first < second)
             System.out.println(first + " is LESS THAN " + second);
 
         if (first <= second)
