@@ -33,6 +33,13 @@ public class BooleanExpressions {
         System.out.println( !(x > y) + " " + (x <= y) );
         System.out.println( !(x >= y) + " " + (x < y) );
 
+        //less than is <
+        //greater than is >
+        //less than or equal to is <=
+        //greater than or equal to is >=
+        //equals to is ==
+       //not equal to is !=
+
 
 
     }
