@@ -3,9 +3,11 @@ import java.util.Scanner;
 public class BMICategories {
     public static void main( String[] args ) {
         Scanner keyboard = new Scanner(System.in);
-        double bmi;
+        double bmi ;
 
-        System.out.println( "Enter your BMI: " );
+
+
+        System.out.println( "|Enter your bmi " );
         bmi = keyboard.nextDouble();
 
         System.out.println( "BMI category: " );
